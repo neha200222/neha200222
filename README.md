@@ -8,4 +8,4 @@ I love connecting with others and sharing the excitement of discovering new insi
 
 Join me on this data-driven journey, and let's turn numbers into narratives together. 📊➡️📖
 
-[Neha's GitHub stats]https://github.com/Neha200222/github-readme-stats
+[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha200222)](https://github.com/anuraghazra/github-readme-stats)
